@@ -1,0 +1,13 @@
+name = CiviCRM Price Auxilary
+description = Price set/field related views mods
+core = 7.x
+version = "7.x-dev"
+project = "civicrm_price_aux"
+
+package = CiviCRM
+
+
+dependencies[] = views
+dependencies[] = civicrm
+
+
